@@ -10,6 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@capacitor/cli": "^5.7.0",
+    "@capacitor/core": "^5.7.0",
     "@pinia/nuxt": "^0.5.1",
     "nuxt": "^3.10.1",
     "pinia": "^2.1.7",

@@ -1,0 +1,8 @@
+{
+  "appId": "it.will.be.our.first.project.mobile",
+  "appName": " First App",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
